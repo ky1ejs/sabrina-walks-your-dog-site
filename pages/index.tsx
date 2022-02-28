@@ -160,13 +160,13 @@ const CenterText = styled.p`
 const AboutMeSection = () => (
   <Section title='About Me'>
       <Text>
-        All my life I've been dog obsessed and I'm so grateful that I get to spend my working day with them.
+        All my life I&apos;ve been dog obsessed and I&apos;m so grateful that I get to spend my working day with them.
       </Text>
       <Text>
-        I live in Elephant &amp; Castle with my boyfriend and our sausage dog, <a target="_blank" href="https://instagram.com/parker.dachshund">Parker</a>.
+        I live in Elephant &amp; Castle with my boyfriend and our sausage dog, <a target="_blank" rel="noreferrer" href="https://instagram.com/parker.dachshund">Parker</a>.
       </Text>
       <Text>
-        I've been looking after and walking dogs for over 7 years. In that time I've worked with all kinds of dogs:
+        I&apos;ve been looking after and walking dogs for over 7 years. In that time I&apos;ve worked with all kinds of dogs:
         <ul>
           <li>Small (e.g. mini poms)</li>
           <li>Large (e.g. American Akitas)</li>
