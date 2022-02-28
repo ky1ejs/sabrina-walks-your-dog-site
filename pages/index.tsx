@@ -249,7 +249,7 @@ const Home: NextPage = () => {
           href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap"
         />
         <meta property="og:title" content="Sabrina - E&amp;C Dog Walker" />
-        <meta property="og:image" content="/public/sabs.jpg" />
+        <meta property="og:image" content="/sabs.jpg" />
       </Head>
     <Root>
       <Page>
