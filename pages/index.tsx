@@ -141,7 +141,7 @@ const TitleSection = () => (
     <Centered>
       <TitleFlex>
     <ImageContainer>
-      <Image priority src={sabs}/>
+      <Image src={sabs}/>
       </ImageContainer>
       <div>
       <Heading1>👋🏽 Sabrina Satti</Heading1> 
