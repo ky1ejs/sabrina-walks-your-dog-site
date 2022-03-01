@@ -250,6 +250,7 @@ const Home: NextPage = () => {
         />
         <meta property="og:title" content="Sabrina - E&amp;C Dog Walker" />
         <meta property="og:image" content="/sabs.jpg" />
+        <script defer data-domain="sabrina-walks-your.dog" src="https://plausible.io/js/plausible.js"></script>
       </Head>
     <Root>
       <Page>
